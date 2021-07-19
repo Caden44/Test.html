@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CM44</title>
+<base>Caden</base>
+</head>
+<body>
+
+    <div style="background-color: white;  
+    width: 1300px;   
+    height: 50px;   
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 30px;">
+Home Menu
+</div>                
+<p></p>
+
+
+            
+</body>
+</html>
+
+<div style="background-color: white;          
+width: 300px;   
+height: 200px;   
+border: 15px solid rgb(0, 0, 0);
+padding: 10px;
+margin: 50px;">
+<div style="background-color: white;          
+width: 205px;   
+height: 115px;   
+border: 15px solid rgb(0, 0, 0);
+padding: 5px;
+margin: 25px;">
+<div style="background-color: white;          
+width: 115px;   
+height: 30px;   
+border: 15px solid rgb(0, 0, 0);
+padding: 5px;
+margin:25px;">
+</div>
+</div>
+
+
+
+<div style="background-color: white;  
+            width: 232px;   
+            height: 320px;   
+            border: 10px solid rgb(0, 0, 3);
+            padding: 0px;
+            margin: 50px;">
+    <img class="fit-picture"
+    src="http://1.bp.blogspot.com/-O2WubYaTLoo/T4ShXJi8GCI/AAAAAAAAAHM/Qcw8n28r9UU/s320/Faber+Files_Tahu+surf.jpg"
+</div>
+
+<h1> </h1>
+
+<button class="favorite styled"
+        type="button">
+    I go nowhere
+</button>
+
+
+
+<map name="infographic">
+    <area shape="rect" coords="184,6,253,27"
+          href="https://mozilla.org"
+          target="_blank" alt="Mozilla" />
+    <area shape="circle" coords="130,136,60"
+          href="https://developer.mozilla.org/"
+          target="_blank" alt="MDN" />
+    <area shape="poly" coords="130,6,253,96,223,106,130,39"
+          href="https://developer.mozilla.org/docs/Web/Guide/Graphics"
+          target="_blank" alt="Graphics" />
+    <area shape="poly" coords="253,96,207,241,189,217,223,103"
+          href="https://developer.mozilla.org/docs/Web/HTML"
+          target="_blank" alt="HTML" />
+    <area shape="poly" coords="207,241,54,241,72,217,189,217"
+          href="https://developer.mozilla.org/docs/Web/JavaScript"
+          target="_blank" alt="JavaScript" />
+    <area shape="poly" coords="54,241,6,97,36,107,72,217"
+          href="https://developer.mozilla.org/docs/Web/API"
+          target="_blank" alt="Web APIs" />
+    <area shape="poly" coords="6,97,130,6,130,39,36,107"
+          href="https://developer.mozilla.org/docs/Web/CSS"
+          target="_blank" alt="CSS" />
+</map>
+<img usemap="#infographic" src="/media/examples/mdn-info.png" alt="MDN infographic" />
+
+
+<div style="background-color: white;          
+width: 560px;   
+height: 315px;   
+border: 8px solid rgb(0, 0, 0);
+padding: 5px;
+margin: 25px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B03uWSodGDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<portal id="exampleportal" src="https://example.com/"></portal>
+
+
+
+<div style="background-color: white;          
+width: 79px;   
+height: 21px;   
+border: 5px solid rgb(0, 0, 0);
+padding: 0px;
+margin:25px;">
+<button class="favorite styled"
+        type="button">
+    Example 1
+</button>
+</div>
+
+<article class="forecast">
+    <h1>Weather forecast for Seattle</h1>
+    <article class="day-forecast">
+        <h2>03 March 2018</h2>
+        <p>Rain.</p>
+    </article>
+    <article class="day-forecast">
+        <h2>04 March 2018</h2>
+        <p>Periods of rain.</p>
+    </article>
+    <article class="day-forecast">
+        <h2>05 March 2018</h2>
+        <p>Heavy rain.</p>
+    </article>
+</article>
+
+<article>
+    <h1>How to be a wizard</h1>
+    <ol>
+        <li>Grow a long, majestic beard.</li>
+        <li>Wear a tall, pointed hat.</li>
+        <li>Have I mentioned the beard?</li>
+    </ol>
+    <footer>
+        <p>© 2018 Gandalf</p>
+    </footer>
+</article>
